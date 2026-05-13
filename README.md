@@ -1,18 +1,32 @@
-# DSA-with-java
 # DSA Journey 🚀
 
 Starting my DSA journey to improve problem-solving skills and build strong fundamentals.
 
-## Goals
+---
+
+# Goals
 - Solve problems consistently
 - Learn pattern-wise
-- Improve logic building
-- Contribute to open source
+- Improve logical thinking
+- Prepare for coding interviews
 
-## Resources
-- Rising Brain Sheet
-- DrGViswanathan Challenge Sheet
+---
 
-## Day 0
-- Revised Java basics
-- Revised basic DSA concepts
+# Resources
+- Striver A2Z DSA Sheet
+- NeetCode
+- LeetCode
+
+---
+
+# Progress Tracker
+
+| Day | Topics | Problems |
+|-----|---------|----------|
+| 1 | Arrays, Hashing | Two Sum, Stock Buy & Sell, Contains Duplicate |
+
+---
+
+# Patterns Learned
+- Two Pointer
+- Sliding Window
