@@ -23,7 +23,8 @@ Starting my DSA journey to improve problem-solving skills and build strong funda
 
 | Day | Topics | Problems |
 |-----|---------|----------|
-| 1 | Arrays, Hashing | Two Sum, Stock Buy & Sell, Contains Duplicate |
+| 1 | Arrays, Hashing | Two Sum, Contains Duplicate |
+| 2 | Two Pointers, Sorted Arrays | Move Zeroes, Container With Most Water |
 
 ---
 
