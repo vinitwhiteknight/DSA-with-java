@@ -29,6 +29,3 @@ Starting my DSA journey to improve problem-solving skills and build strong funda
 | 4 | Prefix Sum, Suffix Sum | Running Sum, Subarray Sum Equals K |
 ---
 
-# Patterns Learned
-- Two Pointer
-- Sliding Window
