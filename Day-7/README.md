@@ -1,10 +1,10 @@
-# Day 7 - HashMaps & Frequency Count 🚀
+# Day 7 - Sliding Window & HashMap Patterns 🚀
 
 ## Problems Solved
-1. Top K Frequent Elements
-2. Longest Consecutive Sequence
-3. Happy Number
-4. Isomorphic Strings
+1. Longest Repeating Character Replacement
+2. Minimum Window Substring
+3. Group Anagrams
+4. Find All Anagrams in a String
 
 ---
 
@@ -14,36 +14,36 @@
 ---
 
 ## Topics / Patterns Learned
-- HashMaps
-- Frequency Counting
-- HashSet-based Lookup Optimization
-- Pattern Recognition in Sequences
+- Sliding Window
+- Variable Size Window
+- HashMap Frequency Count
+- String Grouping & Frequency Matching
 
 ---
 
 ## Key Learnings
-- HashMaps are powerful for fast lookup and frequency tracking
-- HashSets can optimize sequence-related problems
-- Identifying hidden patterns can avoid brute-force approaches
-- Breaking problems into smaller logical steps improves debugging
-- Choosing the right data structure matters a lot in optimization
+- Sliding Window helps optimize substring problems efficiently
+- HashMaps make frequency tracking much easier
+- Window shrinking and expansion are important for dynamic problems
+- Frequency matching is useful for anagram-related problems
+- Grouping strings becomes easier using sorted keys or character frequency
 
 ---
 
 ## Mistakes Made
-- Initially thought of brute-force approaches before using HashMaps
-- Missed mapping edge cases in Isomorphic Strings
-- Took time to understand sequence handling in Longest Consecutive Sequence
-- Got confused tracking repeated transformations in Happy Number
+- Initially struggled to identify when to shrink the sliding window
+- Got confused handling character frequencies in Minimum Window Substring
+- Missed edge cases while grouping anagrams
+- Took time to understand efficient window validation in anagram problems
 
 ---
 
 ## Solutions
 
-- [Top K Frequent Elements](./TopKFrequentElements.java)
-- [Longest Consecutive Sequence](./LongestConsecutiveSequence.java)
-- [Happy Number](./HappyNumber.java)
-- [Isomorphic Strings](./IsomorphicStrings.java)
+- [Longest Repeating Character Replacement](./LongestRepeatingCharacterReplacement.java)
+- [Minimum Window Substring](./MinimumWindowSubstring.java)
+- [Group Anagrams](./GroupAnagrams.java)
+- [Find All Anagrams in a String](./FindAllAnagramsInAString.java)
 
 ---
 
