@@ -30,5 +30,6 @@ Starting my DSA journey to improve problem-solving skills and build strong funda
 | 5 | Kadane's Algorithm, Optimization | Maximum Subarray, Merge Intervals |
 | 6 | Strings, Character Frequency | Valid Anagram, Reverse String |
 | 7 | Sliding Window, HashMap | Minimum Window, Group Anagrams |
+| 8 | HashMaps, Frequency Count | Top K Frequent, Happy Number |
 ---
 
