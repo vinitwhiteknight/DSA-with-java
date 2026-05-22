@@ -22,7 +22,7 @@ Starting my DSA journey to improve problem-solving skills and build strong funda
 # Progress Tracker
 
 | Day | Topics | Problems |
-|------|--------------------------------|--------------------------------|
+|------|----------------------------------|--------------------------------|
 | 1 | Arrays, Hashing | Two Sum, Contains Duplicate |
 | 2 | Two Pointers, Sorted Arrays | Move Zeroes, Container With Most Water |
 | 3 | Sliding Window | Longest Substring, Permutation in String |
@@ -32,5 +32,6 @@ Starting my DSA journey to improve problem-solving skills and build strong funda
 | 7 | Sliding Window, HashMap | Minimum Window, Group Anagrams |
 | 8 | HashMaps, Frequency Count | Top K Frequent, Happy Number |
 | 9 | Binary Search | Binary Search, Sqrt(x) |
+| 10 | Advanced Binary Search | Rotated Array, Koko Eating Bananas |
 ---
 
