@@ -33,5 +33,6 @@ Starting my DSA journey to improve problem-solving skills and build strong funda
 | 8 | HashMaps, Frequency Count | Top K Frequent, Happy Number |
 | 9 | Binary Search | Binary Search, Sqrt(x) |
 | 10 | Advanced Binary Search | Rotated Array, Koko Eating Bananas |
+| 11 | Binary Search on Answers | Ship Packages, Split Array |
 ---
 
