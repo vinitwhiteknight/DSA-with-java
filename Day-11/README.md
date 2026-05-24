@@ -33,13 +33,6 @@
 
 ---
 
-## Solutions
 
-- [Capacity To Ship Packages Within D Days](./CapacityToShipPackagesWithinDDays.java)
-- [Minimum Number of Days to Make m Bouquets](./MinimumDaysToMakeMBouquets.java)
-- [Split Array Largest Sum](./SplitArrayLargestSum.java)
-- [Kth Missing Positive Number](./KthMissingPositiveNumber.java)
-
----
 
 ✅ Day 11 Completed
