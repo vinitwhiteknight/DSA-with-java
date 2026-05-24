@@ -38,13 +38,6 @@
 
 ---
 
-## Solutions
 
-- [Search in Rotated Sorted Array](./SearchInRotatedSortedArray.java)
-- [Find Minimum in Rotated Sorted Array](./FindMinimumInRotatedSortedArray.java)
-- [First Bad Version](./FirstBadVersion.java)
-- [Koko Eating Bananas](./KokoEatingBananas.java)
-
----
 
 ✅ Day 10 Completed
