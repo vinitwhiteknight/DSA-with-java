@@ -35,5 +35,6 @@ Starting my DSA journey to improve problem-solving skills and build strong funda
 | 10 | Advanced Binary Search | Rotated Array, Koko Eating Bananas |
 | 11 | Binary Search on Answers | Ship Packages, Split Array |
 | 12 | Stacks, Parentheses | Valid Parentheses, Baseball Game |
+| 13 | Monotonic Stack | Daily Temperatures, Stock Span |
 ---
 
