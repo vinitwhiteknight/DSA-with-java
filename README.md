@@ -36,5 +36,6 @@ Starting my DSA journey to improve problem-solving skills and build strong funda
 | 11 | Binary Search on Answers | Ship Packages, Split Array |
 | 12 | Stacks, Parentheses | Valid Parentheses, Baseball Game |
 | 13 | Monotonic Stack | Daily Temperatures, Stock Span |
+| 14 | Histogram + Stack | Largest Rectangle, Maximal Rectangle |
 ---
 
