@@ -37,5 +37,6 @@ Starting my DSA journey to improve problem-solving skills and build strong funda
 | 12 | Stacks, Parentheses | Valid Parentheses, Baseball Game |
 | 13 | Monotonic Stack | Daily Temperatures, Stock Span |
 | 14 | Histogram + Stack | Largest Rectangle, Maximal Rectangle |
+| 15 | Linked Lists | Reverse Linked List, Merge Sorted Lists |
 ---
 
