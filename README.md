@@ -40,5 +40,6 @@ Starting my DSA journey to improve problem-solving skills and build strong funda
 | 15 | Linked Lists | Reverse Linked List, Merge Sorted Lists |
 | 16 | Fast & Slow Pointer | Palindrome LL, Intersection LL |
 | 17 | Pointer Manipulation | Add Two Numbers, Copy Random Pointer |
+| 18 | Recursion Basics | Fibonacci, Power of X |
 ---
 
