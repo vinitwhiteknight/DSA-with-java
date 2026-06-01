@@ -33,8 +33,6 @@
 - Initially struggled understanding recursion trees
 - Got confused about when to add/remove elements
 - Took time understanding recursive path building
-- Had to carefully trace recursive calls to avoid mistakes
-
 ---
 
 ## Solutions
