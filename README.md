@@ -46,5 +46,6 @@ Starting my DSA journey to improve problem-solving skills and build strong funda
 | 21 | Heap Basics | Kth Largest, Last Stone Weight |
 | 22 | Heap + Scheduling | Task Scheduler |
 | 23 | Tree Basics + DFS | Inorder, Preorder, Postorder |
+| 24 | BFS + Queue in Trees | Level Order, Right Side View |
 ---
 
