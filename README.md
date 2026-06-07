@@ -44,8 +44,9 @@ Starting my DSA journey to improve problem-solving skills and build strong funda
 | 19 | Backtracking | Subsets, Permutations |
 | 20 | Advanced Backtracking | Word Search, N Queens |
 | 21 | Heap Basics | Kth Largest, Last Stone Weight |
-| 22 | Heap + Scheduling | Task Scheduler |
+| 22 | Heap + Scheduling | Task Scheduler, Reorganize String |
 | 23 | Tree Basics + DFS | Inorder, Preorder, Postorder |
 | 24 | BFS + Queue in Trees | Level Order, Right Side View |
+| 25 | Recursive DFS in Trees | Diameter, Balanced Tree, Path Sum |
 ---
 
