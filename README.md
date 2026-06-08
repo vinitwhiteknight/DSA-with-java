@@ -48,5 +48,6 @@ Starting my DSA journey to improve problem-solving skills and build strong funda
 | 23 | Tree Basics + DFS | Inorder, Preorder, Postorder |
 | 24 | BFS + Queue in Trees | Level Order, Right Side View |
 | 25 | Recursive DFS in Trees | Diameter, Balanced Tree, Path Sum |
+| 26 | Advanced Trees | Same Tree, Subtree of Another Tree |
 ---
 
