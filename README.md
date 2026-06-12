@@ -52,5 +52,6 @@ Starting my DSA journey to improve problem-solving skills and build strong funda
 | 27 | BST Property | Search in BST, Insert into BST |
 | 28 | Graph Basics (BFS + DFS) | Number of Islands, Flood Fill |
 | 29 | Graph Traversal (Matrix BFS) | Rotting Oranges, Course Schedule |
+| 30 | Greedy Basics | Assign Cookies, Lemonade Change |
 ---
 
