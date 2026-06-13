@@ -53,5 +53,6 @@ Starting my DSA journey to improve problem-solving skills and build strong funda
 | 28 | Graph Basics (BFS + DFS) | Number of Islands, Flood Fill |
 | 29 | Graph Traversal (Matrix BFS) | Rotting Oranges, Course Schedule |
 | 30 | Greedy Basics | Assign Cookies, Lemonade Change |
+| 31 | Greedy Optimization | Jump Game I, Jump Game II |
 ---
 
