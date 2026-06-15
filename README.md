@@ -55,5 +55,6 @@ Starting my DSA journey to improve problem-solving skills and build strong funda
 | 30 | Greedy Basics | Assign Cookies, Lemonade Change |
 | 31 | Greedy Optimization | Jump Game I, Jump Game II |
 | 32 | Greedy Algorithms | Non-overlapping Intervals, Gas Station |
+| 33 | Greedy + Interval Problems | Insert Interval, Partition Labels |
 ---
 
