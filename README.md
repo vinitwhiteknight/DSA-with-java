@@ -57,5 +57,6 @@ Starting my DSA journey to improve problem-solving skills and build strong funda
 | 32 | Greedy Algorithms | Non-overlapping Intervals, Gas Station |
 | 33 | Greedy + Interval Problems | Insert Interval, Partition Labels |
 | 34 | Hard Greedy Problem | Candy |
+| 35 | Dynamic Programming Basics | Min Cost Climbing Stairs, House Robber |
 ---
 
