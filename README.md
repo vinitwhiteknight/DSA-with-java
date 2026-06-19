@@ -59,5 +59,6 @@ Starting my DSA journey to improve problem-solving skills and build strong funda
 | 34 | Hard Greedy Problem | Candy |
 | 35 | Dynamic Programming Basics | Min Cost Climbing Stairs, House Robber |
 | 36 | 1D DP + State Transition | House Robber II, Decode Ways |
+| 37 | DP Optimization | Longest Increasing Subsequence, Coin Change |
 ---
 
