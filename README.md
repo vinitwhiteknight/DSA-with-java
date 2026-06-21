@@ -61,5 +61,6 @@ Starting my DSA journey to improve problem-solving skills and build strong funda
 | 36 | 1D DP + State Transition | House Robber II, Decode Ways |
 | 37 | DP Optimization | Longest Increasing Subsequence, Coin Change |
 | 38 | Grid DP | Unique Paths, Minimum Path Sum |
+| 39 | Path & Subset DP | Triangle, Partition Equal Subset Sum |
 ---
 
