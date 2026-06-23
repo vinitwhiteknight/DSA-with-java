@@ -63,5 +63,6 @@ Starting my DSA journey to improve problem-solving skills and build strong funda
 | 38 | Grid DP | Unique Paths, Minimum Path Sum |
 | 39 | Path & Subset DP | Triangle, Partition Equal Subset Sum |
 | 40 | String DP | Longest Common Subsequence, Edit Distance |
+| 41 | Palindrome DP | Palindromic Substrings, Longest Palindromic Substring |
 ---
 
