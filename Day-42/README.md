@@ -28,3 +28,20 @@
 
 ---
 
+## Mistakes Made
+- Initially struggled to define the correct DP state for Word Break
+- Took time understanding how to partition the string at every index
+- Got confused between recursive backtracking and optimized DP approaches
+- Had to manually trace examples to understand memoization benefits
+
+---
+
+## Solutions
+
+- [Word Break](./WordBreak.java)
+
+---
+
+✅ Day 42 Completed
+
+🧠 Focus: String DP + Substring Partitioning
