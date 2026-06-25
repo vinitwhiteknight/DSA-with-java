@@ -65,5 +65,6 @@ Starting my DSA journey to improve problem-solving skills and build strong funda
 | 40 | String DP | Longest Common Subsequence, Edit Distance |
 | 41 | Palindrome DP | Palindromic Substrings, Longest Palindromic Substring |
 | 42 | Advanced String DP | Word Break |
+| 43 | Target Sum DP | Target Sum |
 ---
 
