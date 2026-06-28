@@ -66,5 +66,7 @@ Starting my DSA journey to improve problem-solving skills and build strong funda
 | 41 | Palindrome DP | Palindromic Substrings, Longest Palindromic Substring |
 | 42 | Advanced String DP | Word Break |
 | 43 | Target Sum DP | Target Sum |
+| 44 | Revision | Dynamic Programming & Trees |
+| 45 | Bit Manipulation Basics | Number of 1 Bits |
 ---
 
