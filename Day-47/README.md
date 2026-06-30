@@ -29,3 +29,20 @@
 
 ---
 
+## Mistakes Made
+- Initially struggled to understand why the rightmost set bit separates the two unique numbers.
+- Took time tracing XOR operations to verify the partitioning logic.
+- Had to manually work through binary representations before the solution became clear.
+- Carefully checked edge cases to ensure correct grouping.
+
+---
+
+## Solutions
+
+- [Single Number III](./SingleNumberIII.java)
+
+---
+
+✅ Day 47 Completed
+
+🧠 Focus: XOR Partitioning & Bit Masking
