@@ -10,4 +10,12 @@ class Solution {
         // Find the elements that appear only once
         int[] result = new int[2];
         int index = 0;
-     
+        for (Map.Entry<Integer, Integer> entry : frequencyMap.entrySet()) {
+            if (entry.getValue() == 1) {
+                result[index++] = entry.getKey();
+            }
+        }
+        
+        return result;
+    }
+}
