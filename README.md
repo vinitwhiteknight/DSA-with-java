@@ -68,8 +68,7 @@ Starting my DSA journey to improve problem-solving skills and build strong funda
 | 43 | Target Sum DP | Target Sum |
 | 44 | Revision | Dynamic Programming & Trees |
 | 45 | Bit Manipulation Basics | Number of 1 Bits |
-| 46 | Bit Manipulation | Single Number, Single Number II |
-| 47 | Advanced Bit Manipulation | Single Number III |
+
 
 ---
 
