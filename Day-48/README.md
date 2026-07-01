@@ -30,3 +30,21 @@
 
 ---
 
+## Mistakes Made
+- Initially struggled to identify the DP pattern in Counting Bits.
+- Took time understanding why powers of two contain exactly one set bit.
+- Had to manually verify binary representations for better intuition.
+- Focused on understanding the reasoning behind bitwise operations instead of memorizing tricks.
+
+---
+
+## Solutions
+
+- [Counting Bits](./CountingBits.java)
+- [Power of Two](./PowerOfTwo.java)
+
+---
+
+✅ Day 48 Completed
+
+🧠 Focus: Bit Manipulation, Set Bit Counting & Binary Properties
