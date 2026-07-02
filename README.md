@@ -67,7 +67,11 @@ Starting my DSA journey to improve problem-solving skills and build strong funda
 | 42 | Advanced String DP | Word Break |
 | 43 | Target Sum DP | Target Sum |
 | 44 | Revision | Dynamic Programming & Trees |
-
+| 45 | Bit Manipulation Basics | Number of 1 Bits |
+| 46 | XOR & Bit Counting | Single Number, Single Number II |
+| 47 | Advanced Bit Manipulation | Single Number III |
+| 48 | Bit Manipulation & Binary Properties | Counting Bits, Power of Two |
+| 49 | XOR & Binary Patterns | Sum of All Subset XOR Totals, Binary Number with Alternating B
 
 
 ---
