@@ -28,3 +28,22 @@
 - Bit manipulation helps write optimized solutions with minimal extra space.
 
 ---
+
+## Mistakes Made
+- Initially struggled to visualize XOR values across multiple subsets.
+- Took time identifying the alternating-bit pattern.
+- Had to manually trace binary representations to verify the logic.
+- Learned that building binary intuition is more valuable than memorizing tricks.
+
+---
+
+## Solutions
+
+- [Sum of All Subset XOR Totals](./SumOfAllSubsetXORTotals.java)
+- [Binary Number with Alternating Bits](./BinaryNumberWithAlternatingBits.java)
+
+---
+
+✅ Day 49 Completed
+
+🧠 Focus: XOR Operations & Binary Pattern Recognition
